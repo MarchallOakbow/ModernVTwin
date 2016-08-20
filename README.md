@@ -18,6 +18,6 @@ Parts layout check<br>
 Pattern Drawing<br>
 PCB design<br>
 
-I would like to foward this project with many hobbyist over the world.
+I would like to foward this project with many hobbyist over the world.<br>
 Contact me on twitter <a href = "https://twitter.com/MarChallenge">@MarChallenge</a>.<br>
 
