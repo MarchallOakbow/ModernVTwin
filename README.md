@@ -17,3 +17,7 @@ Extract BOM<br>
 Parts layout check<br>
 Pattern Drawing<br>
 PCB design<br>
+
+I would like to foward this project with many hobbyist over the world.
+Contact me on twitter <a href = "https://twitter.com/MarChallenge">@MarChallenge</a>.<br>
+
